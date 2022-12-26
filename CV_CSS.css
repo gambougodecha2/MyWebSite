@@ -1,0 +1,66 @@
+img{
+    text-transform: capitalize;
+}
+canvas {
+    color: rgb(184, 111, 20);
+
+}
+body{
+    padding: 100px;
+}
+ul{
+    color: #be7c25;
+}
+h1{
+    color: #be7c25;
+    text-align: left;
+    font-size: 20px;
+    font-family: "Montserrat";
+    
+    
+}
+.rect{
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+    font-family: "Montserrat";
+    
+}
+
+img{
+    image-orientation: inherit;
+}
+h2{
+    color: #be7c25;
+    text-align: left;
+    font-size: 20px;
+    font-family: "Montserrat";
+}
+.entête{
+    background-color: #ecd8be;
+    border-radius: 40px;
+    box-shadow: 30px;
+    padding: 50px;
+}
+p{
+    color: #724a16  ;
+    text-align: left;
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.BG{
+    background-color: #724a16;
+    padding: 0.1px;
+    width: 90%;
+    height: 1px;
+
+
+}
+
+.NJ{
+    
+    padding: 0.5px;
+
+
+}
+
